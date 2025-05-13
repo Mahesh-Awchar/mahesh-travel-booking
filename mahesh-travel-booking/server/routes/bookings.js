@@ -1,0 +1,3 @@
+const express = require('express');
+const Booking = require('../models/Booking');
+...
